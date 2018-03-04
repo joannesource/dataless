@@ -1,0 +1,9 @@
+{
+  "name": "dataless",
+  "version": "1.0.0",
+  "description": "Encrypt data with WebCrypto API.",
+  "main": "dataless.js",
+  "repository": "https://github.com/joannesource/dataless.git",
+  "author": "Joanne Source <joannesource@protonmail.com>",
+  "license": "GPL-3"
+}
